@@ -8,7 +8,7 @@
         "@dogatana/back-to-top-button",
         "@dogatana/honkit-plugin-page-toc-button",
         "sitemap",
-        "@chorogis/honkit-plugin-pagefooter",
+        "page-footer",
         "canonical-link"
     ],
     "pluginsConfig": {
@@ -27,10 +27,21 @@
             "baseURL": "https://jacks-appliance-llc.developer-corner.xyz" 
         },
         "page-footer": {
-            "footer":"Copyright © Jack's Appliance, LLC. All Rights Reserved",
-            "label": "Last modified: ",
-            "format": "YYYY-MM-DD HH:mm:ss",
-            "utc" : true
-          }
+            "description": "modified at",
+            "signature": "Jack's Appliance, llc",
+            "wisdom": "Appliance and AC Sales and Service",
+            "format": "yyyy-MM-dd hh:mm:ss",
+            "copyright": "Copyright &#169; 2022 - Jack's Appliance, llc",
+            "timeColor": "#666",
+            "copyrightColor": "#666",
+            "utcOffset": "8",
+            "isShowQRCode": true,
+            "isShowIssues": true,
+            "baseUri": "https://jacks-appliance-llc.developer-corner.xyz/",
+            "repo": "Jacks-Appliance-LLC/Jacks-Appliance-LLC",
+            "issueNum": "8",
+            "token": "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",
+            "style": "normal"
+        }
     }
 }

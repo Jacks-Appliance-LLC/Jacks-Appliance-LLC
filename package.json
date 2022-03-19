@@ -15,12 +15,12 @@
       "family-owned",
       "small-business"
     ],
-    "author": "Joshua V. Lewis [Jack's Appliance, LLC]",
+    "author": "Joshua V. Lewis [Developer Corner]",
     "license": "ISC",
     "devDependencies": {
       "honkit": "^3.6.23",
       "honkit-plugin-theme-darkening": "^1.0.3",
-      "honkit-plugin-pagefooter": "^0.1.1",
+      "gitbook-plugin-page-footer": "^5.4.9",
       "honkit-plugin-sitemap": "^1.0.2",
       "@dogatana/honkit-plugin-back-to-top-button": "^1.0.0",
       "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
