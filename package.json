@@ -1,0 +1,29 @@
+{
+    "name": "jacks-appliance-llc",
+    "version": "1.0.0",
+    "description": "Appliance and AC Sales and Repair",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "serve": "honkit serve website",
+      "build": "honkit build website",
+      "reload": "honkit build --reload website",
+      "benchmark": "honkit build benchmark website"
+    },
+    "keywords": [
+      "development",
+      "gitbook",
+      "documentation",
+      "open-source"
+    ],
+    "author": "Joshua V. Lewis [Developer Corner]",
+    "license": "ISC",
+    "devDependencies": {
+      "honkit": "^3.6.23",
+      "honkit-plugin-theme-darkening": "^1.0.3",
+      "honkit-plugin-sitemap": "^1.0.2",
+      "@dogatana/honkit-plugin-back-to-top-button": "^1.0.0",
+      "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
+      "gitbook-plugin-canonical-link": "^2.0.3"
+    }
+  }
