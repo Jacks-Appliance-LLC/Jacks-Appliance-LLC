@@ -8,7 +8,7 @@
         "@dogatana/back-to-top-button",
         "@dogatana/honkit-plugin-page-toc-button",
         "sitemap",
-        "page-footer",
+        "@chorogis/honkit-plugin-pagefooter",
         "canonical-link"
     ],
     "pluginsConfig": {
