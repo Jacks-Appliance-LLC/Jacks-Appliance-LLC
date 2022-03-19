@@ -2,7 +2,8 @@
     "root": "./",
     "title": "Jack's Appliance, LLC",
     "description": "Appliance and AC Sales ad Repair",
-    "author": "Joshua V. Lewis [Jack's Appliance, LLC]",
+    "author": "Joshua V. Lewis [Developer Corner]",
+    "footer": "Copyright © Jack's Appliance, LLC. All Rights Reserved",
     "plugins": [
         "honkit-plugin-theme-darkening",
         "@dogatana/back-to-top-button",
