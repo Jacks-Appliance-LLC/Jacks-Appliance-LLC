@@ -1,6 +1,5 @@
 <h1>Contact</h1>
 <hr />
-<hr />
 <img src="./_assets/logo.png", alt="Jack's Appliance, LLC" style="width:100%"></img>
 <hr />
 <ul>
