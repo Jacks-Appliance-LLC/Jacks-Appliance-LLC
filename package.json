@@ -16,7 +16,7 @@
       "documentation",
       "open-source"
     ],
-    "author": "Joshua V. Lewis [Developer Corner]",
+    "author": "Joshua V. Lewis [Jack's Appliance, LLC]",
     "license": "ISC",
     "devDependencies": {
       "honkit": "^3.6.23",

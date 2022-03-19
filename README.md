@@ -4,6 +4,6 @@
 
 <A href="https://docs.developer-corner.xyz/">Documentation</a> ▫️ <a href="https://www.developer-corner.xyz/">Website</a> ▫️ <a href="https://github.com/orgs/DevCorner-Github/repositories">Repositories</a> ▫️ <a href="https://github.com/DevCorner-Github/.github/issues">Issues</a> ▫️ <a href="https://discord.me/developer-corner">Support</a>
 <hr />
-Copyright © Developer Corner. All Rights Reserved
+Copyright © Jack's Appliance, LLC. All Rights Reserved
 </div>
 
