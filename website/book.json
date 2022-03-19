@@ -3,12 +3,12 @@
     "title": "Jack's Appliance, LLC",
     "description": "Appliance and AC Sales ad Repair",
     "author": "Joshua V. Lewis [Developer Corner]",
-    "footer": "Copyright © Jack's Appliance, LLC. All Rights Reserved",
     "plugins": [
         "honkit-plugin-theme-darkening",
         "@dogatana/back-to-top-button",
         "@dogatana/honkit-plugin-page-toc-button",
         "sitemap",
+        "page-footer",
         "canonical-link"
     ],
     "pluginsConfig": {
@@ -25,6 +25,12 @@
         },
         "canonical-link": {
             "baseURL": "https://jacks-appliance-llc.developer-corner.xyz" 
-        }
+        },
+        "page-footer": {
+            "footer":"Copyright © Jack's Appliance, LLC. All Rights Reserved",
+            "label": "Last modified: ",
+            "format": "YYYY-MM-DD HH:mm:ss",
+            "utc" : true
+          }
     }
 }

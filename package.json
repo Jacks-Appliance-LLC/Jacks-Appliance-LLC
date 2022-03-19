@@ -21,6 +21,7 @@
     "devDependencies": {
       "honkit": "^3.6.23",
       "honkit-plugin-theme-darkening": "^1.0.3",
+      "honkit-plugin-pagefooter": "^0.1.1",
       "honkit-plugin-sitemap": "^1.0.2",
       "@dogatana/honkit-plugin-back-to-top-button": "^1.0.0",
       "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
